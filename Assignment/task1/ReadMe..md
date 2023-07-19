@@ -1,3 +1,6 @@
+=======================================================
+============== HOW TO RUN THE PROGRAM =================
+
 *TO RUN THE MAIN FILE*
 
 1) Go to the task1 directory
